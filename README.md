@@ -5,7 +5,7 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-<!-- - 📫 How to reach me: Nimakazem1 -->
+- 📫 How to reach me: Nimakazem1
 - 😄 Pronouns: He
 <!-- - ⚡ Fun fact: ... -->
 
