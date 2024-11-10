@@ -7,5 +7,6 @@
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: Nimakazem1
 - 😄 Pronouns: He
+- Game Dev 🎮
 <!-- - ⚡ Fun fact: ... -->
 
